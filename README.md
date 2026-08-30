@@ -157,9 +157,6 @@ Diseño, despliego y mantengo sistemas utilizados en operaciones diarias de empr
 `Claude Code` · `OpenAI Codex` · `Gemini`
 
 </div>
-
-> Las estadísticas de lenguajes de GitHub reflejan el código presente en los repositorios públicos, no el nivel de dominio de cada tecnología.
-
 ---
 
 ## 🌐 Enlaces

@@ -157,6 +157,7 @@ Diseño, despliego y mantengo sistemas utilizados en operaciones diarias de empr
 `Claude Code` · `OpenAI Codex` · `Gemini`
 
 </div>
+
 ---
 
 ## 🌐 Enlaces

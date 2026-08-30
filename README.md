@@ -9,7 +9,7 @@
 Desarrollo productos de software y sistemas de automatización reales: desde entender el problema y definir requerimientos hasta desarrollar, desplegar, documentar, probar y mantener soluciones en producción.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhordan_Huamani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhordan-huaman%C3%AD-b08565346/)
-[![Email](https://img.shields.io/badge/Email-jhordan1704%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhordan1704@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jhordan%40sirioautomatiza.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhordan@sirioautomatiza.com)
 [![Sirio Automatiza](https://img.shields.io/badge/Web-Sirio_Automatiza-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sirioautomatiza.com)
 
 </div>
@@ -169,7 +169,7 @@ Diseño, despliego y mantengo sistemas utilizados en operaciones diarias de empr
 - **Sirio Automatiza:** [sirioautomatiza.com](https://sirioautomatiza.com)
 - **Sirio Detalles:** [detalles.sirioautomatiza.com](https://detalles.sirioautomatiza.com)
 - **Sirio Express:** [express.sirioautomatiza.com](https://express.sirioautomatiza.com)
-- **WayraSimi:** [karaoke.wayrasimi.tech](https://karaoke.wayrasimi.tech)
+- **Demo Sistema de Despacho:** [demo.sirioautomatiza.com](https://demo.sirioautomatiza.com)
 
 ---
 

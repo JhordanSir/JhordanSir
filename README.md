@@ -156,15 +156,6 @@ Diseño, despliego y mantengo sistemas utilizados en operaciones diarias de empr
 ### Desarrollo asistido por IA
 `Claude Code` · `OpenAI Codex` · `Gemini`
 
----
-
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JhordanSir&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhordanSir&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
 </div>
 
 > Las estadísticas de lenguajes de GitHub reflejan el código presente en los repositorios públicos, no el nivel de dominio de cada tecnología.
